@@ -49,7 +49,8 @@
     "ts-node": "^10.4.0",
     "tslib": "^2.3.1",
     "typescript": "4.5.5",
-    "vite": "^3.0.4"
+    "vite": "^3.0.4",
+    "jq": "1.7.2"
   },
   "dependencies": {
     "@lottiefiles/lottie-player": "^1.5.7",

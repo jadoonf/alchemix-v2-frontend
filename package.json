@@ -55,7 +55,7 @@
     "@lottiefiles/lottie-player": "^1.5.7",
     "@snapshot-labs/snapshot.js": "^0.4.57",
     "@tkh/tailwind-plugin-flex-basis": "^1.4.0",
-    "@web3-onboard/coinbase": "^2.2.2",
+    "@web3-onboard/coinbase": "^2.2.7",
     "@web3-onboard/core": "^2.16.2",
     "@web3-onboard/injected-wallets": "^2.8.4",
     "@web3-onboard/keystone": "^2.3.5",
